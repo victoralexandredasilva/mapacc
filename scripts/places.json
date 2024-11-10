@@ -1,0 +1,189 @@
+[
+    { 
+        "coordinates": [-24.98812747516745, -53.44825733546984],
+        "local": "A115",
+        "categoria": "",
+        "bloco": "",
+        "andar": "",
+        "recuros": "",
+        "capacidade": "",
+        "imagens": [
+            "a115/a115_1.jpg",
+            "a115/a115_2.jpg",
+            "a115/a115_3.jpg",
+            "a115/a115_4.jpg",
+            "a115/a115_5.jpg"
+        ] 
+    },
+    { 
+        "coordinates": [-24.988264833974725, -53.448714532648424],
+        "local": "Laboratório 1",
+        "categoria": "",
+        "bloco": "",
+        "andar": "",
+        "recuros": "",
+        "capacidade": "",
+        "imagens": [] 
+    },
+    { 
+        "coordinates": [-24.988168473583123, -53.448935333944746],
+        "local": "Laboratório 4",
+        "categoria": "",
+        "bloco": "",
+        "andar": "",
+        "recuros": "",
+        "capacidade": "",
+        "imagens": [] 
+    },
+    { 
+        "coordinates": [-24.988336486524638, -53.449232461615075],
+        "local": "Laboratório 7",
+        "categoria": "",
+        "bloco": "",
+        "andar": "",
+        "recuros": "",
+        "capacidade": "",
+        "imagens": [] 
+    },
+    { 
+        "coordinates": [-24.98810863381779, -53.44828952197738],
+        "local": "RU - Restaurante Universitário",
+        "categoria": "",
+        "bloco": "",
+        "andar": "",
+        "recuros": "",
+        "capacidade": "",
+        "imagens": [
+            "ru/ru1.jpg"
+        ] 
+    },
+    { 
+        "coordinates": [-24.988472025661427, -53.447822643861315],
+        "local": "Copiadora",
+        "categoria": "",
+        "bloco": "",
+        "andar": "",
+        "recuros": "",
+        "capacidade": "",
+        "imagens": [
+            "copiadora/copiadora1.jpg"
+        ] 
+    },
+    { 
+        "coordinates": [-24.988333156109253, -53.4482244565413],
+        "local": "Cantina",
+        "categoria": "",
+        "bloco": "",
+        "andar": "",
+        "recuros": "",
+        "capacidade": "",
+        "imagens": [
+            "cantina/cantina1.jpg",
+            "cantina/cantina2.jpg",
+            "cantina/cantina3.jpg"
+        ] 
+    },
+    { 
+        "coordinates": [-24.98855281279199, -53.449201084693314],
+        "local": "Grupo PETComp",
+        "categoria": "",
+        "bloco": "",
+        "andar": "",
+        "recuros": "",
+        "capacidade": "",
+        "imagens": [] 
+    },
+    { 
+        "coordinates": [-24.98830290391682, -53.44880114213946],
+        "local": "Grupo BIT - Empresa Júnior",
+        "categoria": "",
+        "bloco": "",
+        "andar": "",
+        "recuros": "",
+        "capacidade": "",
+        "imagens": [] 
+    },
+    { 
+        "coordinates": [-24.988324873948198, -53.448861739496095],
+        "local": "CA - Centro Acadêmico",
+        "categoria": "",
+        "bloco": "",
+        "andar": "",
+        "recuros": "",
+        "capacidade": "",
+        "imagens": [] 
+    },
+    { 
+        "coordinates": [-24.988654968425905, -53.44787762914504],
+        "local": "Ambulatório",
+        "categoria": "",
+        "bloco": "",
+        "andar": "",
+        "recuros": "",
+        "capacidade": "",
+        "imagens": [] 
+    },
+    { 
+        "coordinates": [-24.987298045223238, -53.44735764785217],
+        "local": "Biblioteca Universitária",
+        "categoria": "",
+        "bloco": "",
+        "andar": "",
+        "recuros": "",
+        "capacidade": "",
+        "imagens": [
+            "biblioteca/bib1.jpg",
+            "biblioteca/bib2.jpg",
+            "biblioteca/bib3.jpg",
+            "biblioteca/bib4.jpg",
+            "biblioteca/bib5.jpg"
+        ] 
+    },
+    { 
+        "coordinates": [-24.987598469639693, -53.45075524180598],
+        "local": "Reitoria da Unioeste",
+        "categoria": "",
+        "bloco": "",
+        "andar": "",
+        "recuros": "",
+        "capacidade": "",
+        "imagens": [] 
+    },
+    { 
+        "coordinates": [-24.987852666176646, -53.44919521672439],
+        "local": "PEE - Grupo de Apoio",
+        "categoria": "",
+        "bloco": "",
+        "andar": "",
+        "recuros": "",
+        "capacidade": "",
+        "imagens": [] 
+    },
+    { 
+        "coordinates": [-24.987991707882145, -53.44840623662647],
+        "local": "Secretaria Acadêmica",
+        "categoria": "",
+        "bloco": "",
+        "andar": "",
+        "recuros": "",
+        "capacidade": "",
+        "imagens": [
+            "sac/sac1.jpg"
+        ]
+    },
+    { 
+        "coordinates": [-24.988503638184397, -53.44799528181864],
+        "local": "Jardim Sensorial - Caracol",
+        "categoria": "",
+        "bloco": "",
+        "andar": "",
+        "recuros": "",
+        "capacidade": "",
+        "imagens": [
+            "caracol/caracol1.jpg",
+            "caracol/caracol2.jpg",
+            "caracol/caracol3.jpg"
+        ] 
+    }
+    
+]
